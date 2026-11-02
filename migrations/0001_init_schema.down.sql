@@ -1,0 +1,8 @@
+DROP TABLE IF EXISTS notification;
+DROP TABLE IF EXISTS booking;
+DROP TABLE IF EXISTS time_slot;
+DROP TABLE IF EXISTS master_schedule;
+DROP TABLE IF EXISTS master_service;
+DROP TABLE IF EXISTS master;
+DROP TABLE IF EXISTS service;
+DROP TABLE IF EXISTS client;
